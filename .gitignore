@@ -1,6 +1,7 @@
 *.amlignore*
 *.amltmp
 .ipynb_aml_checkpoints/*
+config.json
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
